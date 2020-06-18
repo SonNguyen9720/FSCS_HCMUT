@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "957058445168",
+    "firebase_url": "https://fscs-hcmut.firebaseio.com",
+    "project_id": "fscs-hcmut",
+    "storage_bucket": "fscs-hcmut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957058445168:android:e965d4073ee83fd98ea9b5",
+        "android_client_info": {
+          "package_name": "com.example.fscs_hcmut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957058445168-eotl6k6m3q0ne02d37akbu6g58i0f9to.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fscs_hcmut",
+            "certificate_hash": "b52129087345b0ab610708dcc2d8ee56471fa29e"
+          }
+        },
+        {
+          "client_id": "957058445168-r2ligtb5asbs2h40eglbp4jcfam4eg3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHPtniAXLpZjwo1jFAYhfC9PyI0ZfGqkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957058445168-r2ligtb5asbs2h40eglbp4jcfam4eg3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
